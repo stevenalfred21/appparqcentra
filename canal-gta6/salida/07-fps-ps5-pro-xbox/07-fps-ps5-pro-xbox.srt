@@ -1,0 +1,67 @@
+1
+00:00:00,400 --> 00:00:05,367
+¿Va a ir GTA 6 a sesenta fotogramas por segundo? Sobre todo en PS5 Pro. Vamos a
+
+2
+00:00:05,367 --> 00:00:07,945
+separar lo que se sabe de lo que se dice.
+
+3
+00:00:08,945 --> 00:00:11,689
+Lo primero: no hay ningún modo a sesenta anunciado.
+
+4
+00:00:11,989 --> 00:00:16,888
+Varios medios informan de que Rockstar apunta a treinta fotogramas por segundo en
+
+5
+00:00:16,888 --> 00:00:18,702
+consolas, incluida la PS5 Pro.
+
+6
+00:00:19,702 --> 00:00:23,938
+¿Por qué? Esto es lo que explica Digital Foundry, y ellos mismos dicen que son
+
+7
+00:00:23,938 --> 00:00:24,644
+suposiciones.
+
+8
+00:00:24,944 --> 00:00:28,542
+El cuello de botella sería el procesador, no la tarjeta gráfica.
+
+9
+00:00:28,842 --> 00:00:34,282
+Y la PS5 Pro mejora mucho la gráfica, pero el procesador es apenas más rápido que el
+
+10
+00:00:34,282 --> 00:00:35,384
+de la PS5 normal.
+
+11
+00:00:35,684 --> 00:00:39,900
+Una ciudad llena de gente, coches y tráfico carga sobre todo el procesador.
+
+12
+00:00:40,200 --> 00:00:44,610
+Por eso ven más realista un modo a cuarenta en pantallas de ciento veinte hercios
+
+13
+00:00:44,610 --> 00:00:45,590
+que uno a sesenta.
+
+14
+00:00:46,590 --> 00:00:51,349
+Lo bueno: el jueves dejaremos de especular. En cuanto salga, habrá análisis técnicos
+
+15
+00:00:51,349 --> 00:00:53,729
+con datos reales, y te los resumimos aquí.
+
+16
+00:00:54,729 --> 00:00:59,249
+¿A ti te importan los treinta fotogramas, o mientras se vea así te da igual? Comenta
+
+17
+00:00:59,249 --> 00:00:59,948
+y suscríbete.
